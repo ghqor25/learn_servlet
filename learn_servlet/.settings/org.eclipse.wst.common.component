@@ -2,7 +2,7 @@
     <wb-module deploy-name="learn_servlet">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="learn_servlet"/>
         <property name="java-output-path" value="/learn_servlet/build/classes"/>
+        <property name="context-root" value="/"/>
     </wb-module>
 </project-modules>
